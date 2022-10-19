@@ -1,0 +1,15 @@
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES ('Axl', 13223443490, 2300.00, '1999-01-23', 0);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES ('Bob', 40028922348, 1200.00, '1987-11-18', 3);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES ('Julia', 89392787483, 4100.00, '1974-11-08', 2);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES ('Robert', 859483873874, 1200.00, '1974-9-21', 0);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES ('Nivaldo', 639485857668, 10200.00, '1974-06-19', 0);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES ('Joao', 230539435185, 8900.00, '1974-12-10', 5);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES ('Pedro', 124333555446, 7500.00, '1974-10-02', 4);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES ('Tais', 432553753500, 2000.00, '1974-12-15', 3);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES ('Duff', 893421004834, 27800.00, '1974-01-24', 4);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES ('Marshall', 893927874834, 480000000.00, '1972-10-17', 1);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES ('Ana Julia', 893927874834, 6700.00, '1994-06-11', 0);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES ('Akon', 49863026332, 7300.00, '2002-07-19', 1);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES ('Bia', 10203722356, 3200.00, '2000-06-02', 2);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES ('Michel', 93935674834, 1100.00, '1999-06-10', 2);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES ('Raul', 54935875657, 2700.00, '2002-06-19', 3);
